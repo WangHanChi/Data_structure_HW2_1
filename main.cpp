@@ -12,7 +12,7 @@ using namespace std;
 #include <time.h>   //使用時間的標頭檔
 #include <unistd.h>
 
-//HW2第一題  107303528  機械4A 王漢祺
+
 //三個骰子的點數為隨機的，而非輸入或是亂數表，所以可能會跑很多次><
 class My_Dice{
     
